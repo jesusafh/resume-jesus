@@ -1,0 +1,5 @@
+//
+//  ResumeAppConfiguration.xcconfig
+//  ResumeApp
+
+RESUME_PROFILE_URL = https:$(/)/api.myjson.com/bins/m23ab

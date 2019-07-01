@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  ResumeApp
+*/
+
+"Profile" = "Perfil";
+"Error" = "Error";
+"ErrorDescription" = "No se pudo descargar el perfil";
+"Ok" = "Entendido";

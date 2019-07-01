@@ -1,0 +1,147 @@
+{
+    "name": "Jesús Hernández",
+    "summary": "Computer Engineer Web, iOS and Android developer with experience building native applications using different technologies.",
+    "profilePicURL": "https://i.ibb.co/58xRLdt/alfredo.jpg",
+    "sections": [
+        {
+            "title": "About",
+            "summary": "Computer Engineer Web, iOS and Android developer with experience building native applications using different technologies. I have always achieved results that are enjoyable for both my clients and myself. I can work perfectly in a team. Impassioned with that I do and dedicated each and every one of my goals. Continuous learning."
+        },
+        {
+            "title": "Experience",
+            "workPlaces": [
+                {
+                    "name": "IDEMIA",
+                    "description": "From 2017 to Current. Desktop,Web and Mobile Apps Developer / Pre-Sales Expert, Developer, (Android, iOS, Web). Developer in Android, iOS and Web specialized in facial, finger and iris biometrics. Biometric devices integration in both mobile and web applications. Technical leader in development teams in Latin America and development of Front-End, Back-End and Mobiles Apps projects. Supporting in pre-sales and post-sales area for issues related to the biometrics technologies implemented."
+                },
+                {
+                    "name": "Smart Clipp",
+                    "description": "From 08/2015 to 07/2016. Mobile and Web Front-end/Backend , Developer, (Android, Laravel). Mobile applications developer in Android, iOS and web platforms developer."
+                },
+                {
+                    "name": "TU Tienda UNAM",
+                    "description": "From 03/15 to 09/15. Mobile App, Developer, (Android). Android developer (TU Tienda UNAM Official App)."
+                },
+                {
+                    "name": "SAIC",
+                    "description": "From 01/15 to 11/15. (Sociedad de Alumnos Ingeniería en Computación). Mobile Apps, Developer, Coordinator, (Android/iOS). Coordinator in SAIC for mobile development, working with a team of developers from different professions, and teaching courses for iOS and Android development. iOS Mobile Developer."
+                },
+                {
+                    "name": "Nokia (Microsoft Mobile)",
+                    "description": "From 03/15 to 09/15. Mobile apps for Nokia X, Scholarship Holder, (Android). Developer for Android (11 apps) compatible with Nokia X phone, development with Android Studio and uploading the applications on the official Nokia Store."
+                },
+                {
+                    "name": "Yobibyte Labs (StartUp)",
+                    "description": "From 01/14 to 09/14. Mobile and Web, Developer, (Android / Laravel). YobiByte Labs was a startup in which we are mainly dedicated to mobile applications. We develop applications for Android (Punto y Coma Congress 2014, Karmapp). I worked doing the Backend part (Databases, REST API development, Web logic) and mobile application development (Congreso Punto y Coma, Karmapp)."
+                }
+            ]
+        },
+        {
+            "title": "Hard Skills",
+            "skills": [
+                {
+                    "name": "Swift (iOS)",
+                    "score": 5
+                },
+                {
+                    "name": "Android",
+                    "score": 5
+                },
+                {
+                    "name": "MySQL",
+                    "score": 5
+                },
+                {
+                    "name": "DB ORACLE",
+                    "score": 5
+                },
+                {
+                    "name": "Ruby on Rails",
+                    "score": 4
+                },
+                {
+                    "name": "Laravel",
+                    "score": 3
+                },
+                {
+                    "name": "PHP",
+                    "score": 5
+                },
+                {
+                    "name": "HTML/CSS",
+                    "score": 4
+                },
+                {
+                    "name": "JavaScript",
+                    "score": 3
+                },
+                {
+                    "name": "jQuery",
+                    "score": 3
+                },
+                {
+                    "name": "Git",
+                    "score": 5
+                },
+                {
+                    "name": "Microsoft Office",
+                    "score": 5
+                },
+                {
+                    "name": "OpenOffice",
+                    "score": 4
+                },
+                {
+                    "name": "LATEX",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "title": "Soft Skills",
+            "skills": [
+                {
+                    "name": "Quality of work",
+                    "score": 5
+                },
+                {
+                    "name": "Team work",
+                    "score": 5
+                },
+                {
+                    "name": "Proactive",
+                    "score": 5
+                },
+                {
+                    "name": "Versatile",
+                    "score": 5
+                },
+                {
+                    "name": "Continuous learning",
+                    "score": 5
+                },
+                {
+                    "name": "Analytic",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "title": "Languages",
+            "skills": [
+                {
+                    "name": "Spanish",
+                    "score": 5
+                },
+                {
+                    "name": "English",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "title": "Extracurricular",
+            "summary": "I been participant in Lean Startups (MX), Finalist (9o Place) in Premio Santander (Business Innovation) and also speaker at «Android Workshop: Music in your style» for «Punto y Coma Preparatoriano» conferences."
+        }
+    ]
+}

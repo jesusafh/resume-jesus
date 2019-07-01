@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  ResumeApp
+*/
+
+"Profile" = "Profile";
+"Error" = "Error";
+"ErrorDescription" = "Cannot load profile";
+"Ok" = "Ok";
